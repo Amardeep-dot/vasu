@@ -1,15 +1,16 @@
-## Hi there, I'm Amardeep Gupta  👋
+## Hi there, I'm Amardeep Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 ### 🚀 About Me
 - 📍  Bachelor of Technology in **Electronics and Communication** – NiT *(2024 - 2028)*  
 - 🔭 I’m currently working on **Python and Blockchain.** 
-- 🌱 I’m learning **Technologies and Skill.** 
+- 🌱 I’m learning **Technologies and Skills.** 
 - 👯 I’m looking to collaborate on **cool projects.**
 - ⚡ Fun fact: **Passionate about learning new Skills and Tech.** 
 
+---
 
 ### 🛠️ Tech Stack
-**<span style="font-size: 18px;">🚀 Languages & Frameworks:</span>**
+**🚀 Languages & Frameworks:**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,13 +24,13 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-
-**<span style="font-size: 18px;">🛠️ Tools & Platforms:</span>**  
+**🛠️ Tools & Platforms:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+---
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amardeep-gupta-)
@@ -38,17 +39,18 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-username)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/your-username)
 
-### 📩 Contact Me
-📧 **Email:** (amardeepgupta.edu@gmail.com)  
-💼 **Portfolio:** (https://your-portfolio.com)  
-💬 **DM Me on Socials Above!**  
+---
+
+### 📩 Contact Me  
+<p>
+  <img align="right" src="https://media.giphy.com/media/c7dvcyuES52ClGE7vp/giphy.gif" width="200px">
+</p>
+
+📧 Email: **amardeepgupta.edu@gmail.com**  
+💼 Portfolio: *(Coming Soon!)*  
+💬 DM Me on Socials Above!  
 
 ---
-⭐️ *"Success is not final, failure is not fatal: it is the courage to continue that counts."* – Winston Churchill
 
-
-
-
-
-
-
+⭐️ *"Success is not final, failure is not fatal: it is the courage to continue that counts."*  
+— **Winston Churchill**
